@@ -34,7 +34,6 @@
 (^|\.)\w*adsage\w*\.\w*$
 (^|\.)\w*adsensor\w*\.\w*$
 (^|\.)\w*adservice\w*\.\w*$
-(^|\.)\w*adsh\w*\.\w*$
 (^|\.)\w*adsmogo\w*\.\w*$
 (^|\.)\w*adsrvmedia\w*\.\w*$
 (^|\.)\w*adsserving\w*\.\w*$
@@ -1836,12 +1835,15 @@
 (^|\.)st\.dl\.eccdnx\.com$
 (^|\.)st\.dl\.pinyuncloud\.com$
 (^|\.)steamcdn-a\.akamaihd\.net$
+(^|\.)steamcommunity-a\.akamaihd\.net$
 (^|\.)steamcontent\.com$
 (^|\.)steamgames\.com$
 (^|\.)steampowered\.com\.8686c\.com$
 (^|\.)steamstat\.us$
 (^|\.)steamstatic\.com$
+(^|\.)steamstore-a\.akamaihd\.net$
 (^|\.)steamusercontent\.com$
+(^|\.)steamuserimages-a\.akamaihd\.net$
 
 # Tencent
 (^|\.)foxmail\.com $
